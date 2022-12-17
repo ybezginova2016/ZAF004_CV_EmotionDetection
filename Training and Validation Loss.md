@@ -30,7 +30,7 @@ This usually indicates that the model is overfitting, and cannot generalize on n
 A notable reason for this occurrence is that the model may be too complex for the data or that, the model was trained for a long period. In this case, training can be halted when the loss is low and stable, this is usually known as early stopping. Early stopping is one of the many approaches used to prevent overfitting.
 
 5.3. Good Fit
-In scenario 3, in the image below, the training loss and validation loss both decrease and stabilize at a specific point:
+In scenario 3, in the image below, the training loss and validation loss both decrease and stabilize at a specific point
 
 ![image](https://user-images.githubusercontent.com/113517699/208231816-287ea7c0-f43c-4e33-85fd-c44cabf6d403.png)
 
