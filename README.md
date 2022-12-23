@@ -16,6 +16,7 @@ This project aims to classify the emotion on a person's face into one of **seven
 The repository is currently compatible with `tensorflow-2.0` and makes use of the Keras API using the `tensorflow.keras` library.
 
 * This implementation by default detects emotions on all faces in the webcam feed. With a simple 4-layer CNN, the test accuracy reached 60% in 20 epochs.
+* About [Training and Validation Loss](https://github.com/amitbakde99/Emotion-Detection-Project/blob/main/Training%20and%20Validation%20Loss.md)
 
 ![my image](https://github.com/amitbakde99/Emotion-Detection-Project/blob/main/imgs/Screenshot%202022-12-23%20122412.jpg)
 
