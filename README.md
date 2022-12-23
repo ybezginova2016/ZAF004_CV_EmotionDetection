@@ -15,7 +15,7 @@ The repository is currently compatible with `tensorflow-2.0` and makes use of th
 
 * This implementation by default detects emotions on all faces in the webcam feed. With a simple 4-layer CNN, the test accuracy reached 63.2% in 20 epochs.
 
-![Accuracy plot](.../imgs/Screenshot 2022-12-23 122412.jpg)
+![my image](/imgs/Screenshot 2022-12-23 122412.jpg)
 
 ## Review of the Dataset FER 2013
 
