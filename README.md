@@ -48,7 +48,7 @@ The repository is currently compatible with `tensorflow-2.0` and makes use of th
 
 This Webpage takes the image from the user and predict the emotion with the help of deep learning model which is integrated at the backend.
 
-![upload](https://github.com/amitbakde99/Emotion-Detection-Project/blob/main/imgs/Upload%20Image.png)
+Results
 
 ![image](https://github.com/amitbakde99/Emotion-Detection-Project/blob/main/imgs/Screenshot%202022-12-23%20130558.jpg)
 
