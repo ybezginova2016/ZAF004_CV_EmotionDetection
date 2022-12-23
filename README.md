@@ -40,6 +40,12 @@ The repository is currently compatible with `tensorflow-2.0` and makes use of th
 
 * The emotion with maximum score is displayed on the screen.
 
+## Flask App
+
+This Webpage takes the image from the user and predict the emotion with the help of deep learning model which is integrated at the backend.
+
+![image](https://github.com/amitbakde99/Emotion-Detection-Project/blob/main/imgs/Screenshot%202022-12-23%20130558.jpg)
+
 ## References
 
 * "Challenges in Representation Learning: A report on three machine learning contests." I Goodfellow, D Erhan, PL Carrier, A Courville, M Mirza, B
