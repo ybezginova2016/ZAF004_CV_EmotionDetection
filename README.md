@@ -10,7 +10,7 @@ networks)
 - even RNN is used for eg: to predict real valued position of an expression, we need to cluster the data and perform
 kernel regression
 - More interesting would be to look at DBLSTM (deep bidirectinal LSTM)
-- by using CNN with LSTM we can build the model that can track objects (sitting, standing, sleeping, walking)
+- By using CNN with LSTM we can build the model that can track objects (sitting, standing, sleeping, walking)
 - Big data frameworks on AWS will be used in deployment - Spark with EMR will be initiated by lambda services - S3
 buckets will hold footage data in realtime
 - for local environment - we will take the approach of part to whole - each component will be made to
